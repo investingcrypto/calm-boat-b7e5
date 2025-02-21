@@ -60,3 +60,4 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
 chat you to learn about crypto 
 https://github.com/investingcrypto
+https://GitHub.com/invitingcrypto
